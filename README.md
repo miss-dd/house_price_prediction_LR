@@ -22,3 +22,23 @@ To run the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/miss-dd/house_price_prediction_LR
+   
+## Project Structure
+data/: Contains the raw dataset (House_Price.csv) and the processed data.
+scripts/: Holds the scripts for data preprocessing (preprocess.py) and model implementation (linear_regression_model.py).
+results/: Stores the output, including the evaluation report (evaluation_report.txt).
+
+## Dependencies
+numpy
+pandas
+seaborn
+
+## Contributing
+If you would like to contribute to the project, please follow the contribution guidelines.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgments
+The project structure was inspired by the StartTech Academy.
+Special thanks to Shadrach Darku, and contributors.
