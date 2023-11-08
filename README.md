@@ -9,7 +9,7 @@ This project implements a linear regression model for predicting housing prices 
    - Categorical variables are encoded for compatibility with the linear regression model.
 
 2. **Assessing Model Accuracy:**
-   - The accuracy of the linear regression model is assessed using the Residual Squared Error (RSE) and R-squared metrics.
+   - The accuracy of the linear regression model is assessed using the Mean Squared Error (MSE) and R-squared metrics.
    - Results and insights from the evaluation are presented in the `results/evaluation_report.txt` file.
 
 3. **Test-Train Split:**
@@ -37,7 +37,7 @@ seaborn
 If you would like to contribute to the project, please follow the contribution guidelines.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under Start Tech Academy.
 
 ## Acknowledgments
 The project structure was inspired by the StartTech Academy.
